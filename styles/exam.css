@@ -95,3 +95,7 @@ p.fixed {
     padding: 1.5em; 
 
 }
+
+#nav_menu {
+    float: right;
+}
