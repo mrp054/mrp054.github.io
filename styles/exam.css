@@ -17,13 +17,13 @@ a:focus, a:hover {
     border: 3px blue;
     border-style: dotted solid;
 }
-header h1 {
+article h1 {
     font-size: 175%;
     color: blue;
     text-indent: 30px;
 }
 
-header h2 {
+article h2 {
     font-size: 130%;
     color: blue;
     text-indent: 30px;
