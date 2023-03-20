@@ -101,4 +101,5 @@ p.fixed {
 
 #nav_menu {
     float: left;
+    display: inline;
 }
