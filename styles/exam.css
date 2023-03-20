@@ -102,6 +102,22 @@ p.fixed {
 #nav_menu {
     float: left;
 }
-#nav_menu ul li {
-    display: inline;
+#nav_menu ul {
+    list-style-type: none;
+
 }
+#nav_menu ul li {
+    float: left;
+}
+#nav_menu ul li a {
+    display: block;
+    width: 175px;
+    padding: 1em 0;
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    border-right: 2px solid white;
+
+}
+
