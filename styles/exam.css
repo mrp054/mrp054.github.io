@@ -28,6 +28,9 @@ header h2 {
     color: #800000;
     text-indent: 30px;
 }
+header h3 {
+    color: blue;
+}
 
 header img {
     float: left;
@@ -97,5 +100,5 @@ p.fixed {
 }
 
 #nav_menu {
-    float: right;
+    float: left;
 }
