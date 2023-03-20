@@ -84,7 +84,6 @@ aside ol ul {
 footer {
     clear: both;
     border-top: 2px solid blue;
-    display: inline;
     text-align: center;
     
 
@@ -94,6 +93,7 @@ footer {
 footer p.copyright {
     text-align: center;
     font-size: 80%;
+    display: inline;
 }
 
 p.fixed {
