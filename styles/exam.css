@@ -85,6 +85,7 @@ footer {
     clear: both;
     border-top: 2px solid blue;
     text-align: center;
+    display: inline;
     
 
 
