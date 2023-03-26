@@ -24,6 +24,7 @@
 }
 body{
     clear:both;
+    float:left;
 }
 
 aside {
