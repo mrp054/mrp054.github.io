@@ -22,3 +22,17 @@
     border-right: 2px solid white;
 
 }
+
+aside {
+    width: 20%;
+    float: right;
+    background-color: #ffebc6;
+    padding-left: 2em;
+
+}
+aside ol {
+    list-style-type: upper-roman;
+}
+aside ol ul {
+    list-style-type: square;
+}
