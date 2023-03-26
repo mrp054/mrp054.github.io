@@ -24,9 +24,10 @@
 }
 body{
     clear:both;
+}
+body h1 {
     float:left;
 }
-
 aside {
     width: 20%;
     float: left;
