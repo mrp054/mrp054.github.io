@@ -22,8 +22,8 @@
     border-right: 2px solid white;
 
 }
-body h1{
-    float: left;
+body{
+    clear:both;
 }
 
 aside {
