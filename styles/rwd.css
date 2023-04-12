@@ -106,4 +106,14 @@ html, body {
         body article p {
             font-size: 1em;
         }
-        
+        body article img {
+        margin: auto;
+        display: block;
+        max-width: 760px;
+        width: 100%;
+        }
+        footer {
+            border-top: 2px solid #f46b45;
+            text-align: center;
+            font-size: 8em;
+        }       
