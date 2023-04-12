@@ -97,3 +97,13 @@ html, body {
             text-decoration: underline;
             
         }
+        body article {
+            padding: 1em;
+        }
+        body article h2 {
+            font-size: 1.25em
+        }
+        body article p {
+            font-size: 1em;
+        }
+        
