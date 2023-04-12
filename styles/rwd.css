@@ -86,4 +86,12 @@ html, body {
         transform: rotate(-405deg);
         }
         /*----end of menu*/
-        
+        body section {
+            text-decoration: none;
+            color: white;
+        }
+        .menu {
+            display: hover; 
+            
+
+        }
