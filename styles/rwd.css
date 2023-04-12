@@ -91,10 +91,9 @@ html, body {
             color: white;
         }
         .menu {
-            display: hover; 
-           
-        
+            display: hover;       
         }
-        .current {
+        a.current {
             text-decoration: underline;
+            
         }
