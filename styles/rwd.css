@@ -95,6 +95,7 @@ html, body {
         }
         .current {
             text-decoration: underline;
+            color:white;
             
         }
         body article {
