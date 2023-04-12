@@ -93,7 +93,7 @@ html, body {
         .menu {
             display: hover;       
         }
-        a.current {
+        .current {
             text-decoration: underline;
             
         }
