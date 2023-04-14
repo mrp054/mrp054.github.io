@@ -44,4 +44,5 @@ html, body {
     }
     table.third caption {
         color:lightgreen;
+        border-top:orange;
     }
