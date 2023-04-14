@@ -46,3 +46,11 @@ html, body {
         background-color:lightgreen;
         border-top:orange;
     }
+    table.third td:first-child {
+        border-top: orange;
+    }
+
+
+
+
+
