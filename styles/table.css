@@ -38,6 +38,7 @@ html, body {
     table.third {
         border-collapse:collapse;
         vertical-align: top;
+        border-bottom: 2px solid orange;
         }
     table.third th {
         background-color: lightgreen; 
