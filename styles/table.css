@@ -48,9 +48,7 @@ html, body {
         border-top:2px solid orange;
         border-bottom: 2px solid orange;
     }
-    table.third td:last-child {
-        border-bottom: 2px solid orange;
-    }
+    
     
     
 
