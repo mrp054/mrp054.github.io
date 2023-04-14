@@ -44,7 +44,7 @@ html, body {
     }
     table.third caption {
         background-color:lightgreen;
-        border-top-style:2px solid orange;
+        border-top:2px solid orange;
     }
     table.third td:first-child {
         border-top:2px solid orange;
