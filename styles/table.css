@@ -39,8 +39,7 @@ html, body {
         border-collapse:collapse;
         vertical-align: top;
         }
-    table.third th, table.third td {
-        border: 2px solid green;
+    table.third th {
+        background-color: green; 
     }
-    table.third th
-
+    table.third 
