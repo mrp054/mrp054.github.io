@@ -49,7 +49,9 @@ html, body {
     table.third td:first-child {
         border-top:2px solid orange;
     }
-
+    table.third td:nth-last-child(odd) {
+        border-bottom: 2px solid orange;
+    }
 
 
 
