@@ -42,4 +42,6 @@ html, body {
     table.third th {
         background-color: green; 
     }
-    table.third 
+    table.third caption {
+        color:lightgreen;
+    }
