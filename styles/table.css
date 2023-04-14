@@ -43,6 +43,6 @@ html, body {
         background-color: lightgreen; 
     }
     table.third caption {
-        color:lightgreen;
+        background-color:lightgreen;
         border-top:orange;
     }
