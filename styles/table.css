@@ -49,10 +49,7 @@ html, body {
         border-bottom: 2px solid orange;
     }
     
-    table.third td:nth-last-child(odd) {
-        border-bottom: 2px solid orange;
-    }
-
+    
 
 
 
