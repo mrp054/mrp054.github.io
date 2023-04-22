@@ -1,5 +1,5 @@
-html {
-    background: linear-gradient( to bottom, #FFD580, #00008B);
+body {
+    background-color: linear-gradient( to bottom, #FFD580, #00008B);
 }
 body h1 {
     font-size: 60px;
