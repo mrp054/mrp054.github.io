@@ -8,3 +8,6 @@ body form {
     text-align: center;
     
 }
+body form input{
+    width:60px;
+}
