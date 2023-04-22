@@ -12,6 +12,7 @@ body form {
     
 }
 body form input{
+    font-size: 30px;
     width:400px;
     height: 60px;
 }
