@@ -9,5 +9,9 @@ body form {
     
 }
 body form input{
-    width:300px;
+    width:500px;
+    height: 60px;
+}
+body form button {
+    height: 60px;
 }
