@@ -1,3 +1,6 @@
+body {
+    background: linear-gradient( to bottom, #FFD580, #00008B);
+}
 body h1 {
     font-size: 60px;
     font-style: serif; 
@@ -9,9 +12,11 @@ body form {
     
 }
 body form input{
-    width:500px;
+    width:400px;
     height: 60px;
 }
 body form button {
+    width: 100px;
     height: 60px;
+
 }
