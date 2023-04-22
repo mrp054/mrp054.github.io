@@ -17,7 +17,8 @@ body form input{
     height: 60px;
 }
 body form button {
-    width: 200px;
-    height: 80px;
+    width: 100px;
+    height: 60px;
+    font-size: 40px;
 
 }
