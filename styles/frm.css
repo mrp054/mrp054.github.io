@@ -19,12 +19,3 @@ body form button {
     height: 60px;
     font-size: 40px;
 
-}
-body {
-    height: 100%;
-}
-body {
-    background: linear-gradient( to bottom, #FFD580, #00008B);
-    margin: 0;
-    padding: 0;
-}
