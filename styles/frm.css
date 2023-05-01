@@ -20,9 +20,9 @@ body form button {
     font-size: 40px;
 }
 #nav_menu {
-    float: left;
-    padding: 1em;
-    text-align: center;
+    
+    padding-left: 17.5em;
+   
 }
 #nav_menu ul {
     list-style-type: none;
