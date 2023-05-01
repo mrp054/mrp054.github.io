@@ -22,7 +22,7 @@ body form button {
 #nav_menu {
     float: left;
     padding: 1em;
-    align-content: center;
+    text-align: center;
 }
 #nav_menu ul {
     list-style-type: none;
