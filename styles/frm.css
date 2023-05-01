@@ -19,7 +19,17 @@ body form button {
     height: 65px;
     font-size: 40px;
 }
+#nav_menu {
+    float: left;
+    padding: 1em;
+}
+#nav_menu ul {
+    list-style-type: none;
 
+}
+#nav_menu ul li {
+    float: left;
+}
 #nav_menu ul li {
     display: block;
     text-align: center;
