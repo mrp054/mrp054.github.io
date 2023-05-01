@@ -20,7 +20,7 @@ body form button {
     font-size: 40px;
 }
 
-#nav_menu ul li a {
+#nav_menu ul li {
     display: block;
     text-align: center;
     width: 175px;
