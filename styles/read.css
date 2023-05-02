@@ -30,6 +30,12 @@
     vertical-align: center;
     border: 2px solid blue;
 }
+#table1 th {
+    border: 2px solid blue;
+}
+#table1 td {
+    border: 2px solid blue;
+}
 #table2 {
     font-size: 25px;
     float:right;
@@ -38,5 +44,11 @@
     padding-right: 5px;
     border-collapse: collapse;
     vertical-align: center;
+    border: 2px solid blue;
+}
+#table2 th {
+    border: 2px solid blue;
+}
+#table2 td {
     border: 2px solid blue;
 }
