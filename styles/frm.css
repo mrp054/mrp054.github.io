@@ -30,10 +30,10 @@ body form button {
     list-style-type: none;
 
 }
-#nav_menu ul li {
+/*#nav_menu ul li {
     float: left;
     font-style: white;
-}
+}*/
 #nav_menu ul li {
     display: block;
     text-align: center;
