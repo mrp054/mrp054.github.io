@@ -35,6 +35,7 @@ body form button {
     font-style: white;
 }*/
 #nav_menu ul li {
+    float: left;
     display: block;
     text-align: center;
     width: 175px;
