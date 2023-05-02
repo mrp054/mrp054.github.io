@@ -3,20 +3,18 @@
     font-size: 60px;
     font-style: serif; 
     text-align: center;
-    padding-top: 3em;
+    padding-top: 2em;
 }
 #event {
     font-size: 60px;
     font-style: serif; 
     text-align: center;
-    padding-top: 2em;
     float: left;
 }
 #faculty {
     font-size: 60px;
     font-style: serif; 
     text-align: center;
-    padding-top: 2em;
     float:right;
   
 }
