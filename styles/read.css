@@ -1,8 +1,21 @@
 
-body h1 {
+#view {
     font-size: 60px;
     font-style: serif; 
     text-align: center;
     padding-top: 5%;
 }
-
+#event {
+    font-size: 60px;
+    font-style: serif; 
+    text-align: center;
+    padding-top: 5%;
+    float: left;
+}
+#faculty {
+    font-size: 60px;
+    font-style: serif; 
+    text-align: center;
+    padding-top: 5%;
+    float: right;
+}
