@@ -1,9 +1,10 @@
 #img1 {
-    align-self: center;
-    width:500px;
-    height:500px;
-    Border: 4px solid blue;
-    border-style: grove;
+    padding-left: 50%;
+    padding-right: 50%;
+    width:400px;
+    height:400px;
+    Border: 6px solid blue;
+    border-style: ridge;
 }
 #table1 {
     font-size:25px;
