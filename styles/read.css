@@ -1,18 +1,18 @@
 
 #view {
-    font-size: 60px;
+    font-size: 30px;
     font-style: serif; 
     text-align: center;
     padding-top: 2em;
 }
 #event {
-    font-size: 60px;
+    font-size: 30px;
     font-style: serif; 
     text-align: center;
     float: left;
 }
 #faculty {
-    font-size: 60px;
+    font-size: 30px;
     font-style: serif; 
     text-align: center;
     float:right;
