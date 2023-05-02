@@ -1,5 +1,9 @@
 #img1 {
     align-items: center;
+    width:150px;
+    height:150px;
+    Border: 4px solid blue;
+    border-style: grove;
 }
 #table1 {
     font-size:25px;
