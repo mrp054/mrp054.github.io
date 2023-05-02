@@ -20,8 +20,7 @@ body form button {
     font-size: 40px;
 }
 #nav_menu {
-    padding-top: 2em;
-    padding-left: 35em;
+    margin: 0 auto;
    
 }
 #nav_menu ul {
