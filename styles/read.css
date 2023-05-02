@@ -17,10 +17,11 @@
     font-style: serif; 
     text-align: center;
     padding-top: 2em;
+    float:right;
   
 }
 #table1{
- 
+    float:none;
     text-align: left;
 
 }
