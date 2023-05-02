@@ -19,3 +19,7 @@
     padding-top: 3em;
     float: right;
 }
+#table {
+    float: clear; 
+    
+}
