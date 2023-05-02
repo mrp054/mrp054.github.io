@@ -5,11 +5,11 @@
     border-style: dashed;
     display: block;
     margin: 0 auto;
-    
+
 }
 #table1 {
     font-size:25px;
-    text-align: center;
+    justify-content: center;
     padding-top:100px;
     border-collapse: collapse;
     vertical-align: center;
@@ -23,7 +23,7 @@
 }
 #table2 {
     font-size:25px;
-    text-align: left;
+    justify-content: center;
     padding-top: 15px;
     padding-left: 5px;
     border-collapse: collapse;
