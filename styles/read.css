@@ -32,6 +32,12 @@
     border-collapse: collapse;
     border: 2px solid blue;
 }
+#table1 caption{
+    font-size: 40px;
+    font-style: serif; 
+    text-align: center;
+    padding-top: 2em;
+}
 #table1 th {
     border: 2px solid blue;
     vertical-align: center;
@@ -44,6 +50,12 @@
     font-size: 25px;
     border-collapse: collapse;
     border: 2px solid blue;
+}
+#table2 caption {
+    font-size: 40px;
+    font-style: serif; 
+    text-align: center;
+    padding-top: 2em;
 }
 #table2 th {
     border: 2px solid blue;
