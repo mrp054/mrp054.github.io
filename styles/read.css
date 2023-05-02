@@ -19,7 +19,8 @@
     padding-top: 2em;
     float: right;
 }
-#table {
+#table1{
     float: clear; 
+    text-align: left;
 
 }
