@@ -15,6 +15,9 @@
     border-collapse: collapse;
     border: 2px solid blue;
 }
+#table1 caption {
+    
+}
 #table1 th {
     border: 2px solid blue;
     vertical-align: middle;
