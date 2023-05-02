@@ -10,7 +10,6 @@
 #table1 {
     font-size:25px;
     justify-content: center;
-    padding: 50%;
     border-collapse: collapse;
     vertical-align: center;
     border: 2px solid blue;
@@ -24,7 +23,6 @@
 #table2 {
     font-size:25px;
     justify-content: center;
-    padding: 15px;
     border-collapse: collapse;
     vertical-align: center;
     border: 2px solid blue;
