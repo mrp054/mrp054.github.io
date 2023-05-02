@@ -11,6 +11,7 @@
     font-size:25px;
     border-collapse: collapse;
     border: 2px solid blue;
+    float: left;
 }
 #table1 caption{
     font-size: 40px;
@@ -30,6 +31,7 @@
     font-size: 25px;
     border-collapse: collapse;
     border: 2px solid blue;
+    float:right;
 }
 #table2 caption {
     font-size: 40px;
