@@ -9,7 +9,7 @@
 }
 #table1 {
     font-size:25px;
-    justify-content: center;
+    margin: 0 auto;
     border-collapse: collapse;
     border: 2px solid blue;
 }
@@ -23,6 +23,7 @@
 }
 #table2 {
     font-size:25px;
+    margin: 0 auto;
     justify-content: center;
     border-collapse: collapse;
     border: 2px solid blue;
