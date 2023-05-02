@@ -10,7 +10,7 @@
 #table1 {
     font-size:25px;
     justify-content: center;
-    padding-top:100px;
+    padding: 50%;
     border-collapse: collapse;
     vertical-align: center;
     border: 2px solid blue;
