@@ -23,6 +23,9 @@ body form button {
     text-align: center;
    
 }
+#list {
+    display: inline-block;
+}
 #nav_menu ul {
     list-style-type: none;
 
