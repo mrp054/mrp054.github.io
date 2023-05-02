@@ -4,7 +4,7 @@
     width:400px;
     height:400px;
     Border: 6px solid blue;
-    border-style: ridge;
+    border-style: dashed;
 }
 #table1 {
     font-size:25px;
