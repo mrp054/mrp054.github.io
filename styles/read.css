@@ -5,20 +5,6 @@ body h1 {
     text-align: center;
     padding-top: 5%;
 }
-body form {
-    text-align: center;
-    
-}
-body form input{
-    font-size: 30px;
-    width:450px;
-    height: 60px;
-}
-body form button {
-    width: 180px;
-    height: 65px;
-    font-size: 40px;
-}
 #nav_menu {
     padding-top: 2em;
     padding-left: 35em;
