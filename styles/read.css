@@ -5,27 +5,4 @@ body h1 {
     text-align: center;
     padding-top: 5%;
 }
-#nav_menu {
-    padding-top: 2em;
-    padding-left: 35em;
-   
-}
-#nav_menu ul {
-    list-style-type: none;
 
-}
-#nav_menu ul li {
-    float: left;
-}
-#nav_menu ul li {
-    display: block;
-    text-align: center;
-    width: 175px;
-    padding: 1em 0;
-    text-decoration: none;
-    background-color: blue;
-    color: white;
-    font-weight: bold;
-    border-right: 2px solid white;
-
-}
