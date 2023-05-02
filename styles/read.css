@@ -10,7 +10,7 @@
     font-style: serif; 
     text-align: center;
     padding-top: 2em;
-   
+    float: left;
 }
 #faculty {
     font-size: 60px;
