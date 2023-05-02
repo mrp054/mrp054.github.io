@@ -30,24 +30,26 @@
 #table1 {
     font-size:25px;
     border-collapse: collapse;
-    vertical-align: center;
     border: 2px solid blue;
 }
 #table1 th {
     border: 2px solid blue;
+    vertical-align: center;
 }
 #table1 td {
     border: 2px solid blue;
+    vertical-align: center;
 }
 #table2 {
     font-size: 25px;
     border-collapse: collapse;
-    vertical-align: center;
     border: 2px solid blue;
 }
 #table2 th {
     border: 2px solid blue;
+    vertical-align: center;
 }
 #table2 td {
     border: 2px solid blue;
+    vertical-align: center;
 }
