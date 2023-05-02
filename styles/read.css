@@ -12,7 +12,7 @@
     border-collapse: collapse;
     border: 2px solid blue;
     float: left;
-    margin-left: 50px;
+    margin-left: 100px;
 }
 #table1 caption{
     font-size: 40px;
@@ -33,7 +33,7 @@
     border-collapse: collapse;
     border: 2px solid blue;
     float:right;
-    margin-right: 50px;
+    margin-right: 100px;
 }
 #table2 caption {
     font-size: 40px;
