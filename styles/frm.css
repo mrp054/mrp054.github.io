@@ -32,6 +32,7 @@ body form button {
 }
 #nav_menu ul li {
     float: left;
+    font-style: white;
 }
 #nav_menu ul li {
     display: block;
